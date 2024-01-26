@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SkyCast/static/css/main.21120fdb.css",
+    "main.js": "/SkyCast/static/js/main.9fad54ff.js",
+    "index.html": "/SkyCast/index.html",
+    "main.21120fdb.css.map": "/SkyCast/static/css/main.21120fdb.css.map",
+    "main.9fad54ff.js.map": "/SkyCast/static/js/main.9fad54ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21120fdb.css",
+    "static/js/main.9fad54ff.js"
+  ]
+}
