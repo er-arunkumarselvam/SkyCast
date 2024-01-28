@@ -6,7 +6,7 @@
    @apply my-5 md:my-10 w-full mx-auto lg:w-8/12 p-3  bg-white rounded shadow outline-none border border-neutral-200 ;
 }
 .sky-card{
-    @apply w-full px-5 lg:w-8/12 md:px-10 py-5 mx-auto bg-sky-50 rounded-3xl shadow shadow-zinc-50  ;
+    @apply w-full px-5 lg:w-8/12 md:px-10 py-5 mx-auto bg-sky-50 rounded-3xl shadow shadow-zinc-50 backdrop-blur-md bg-white/30 ;
 }
 .data{
     @apply flex justify-between  ;
