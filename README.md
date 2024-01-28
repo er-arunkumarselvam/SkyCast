@@ -7,7 +7,7 @@ SkyCast is a handy weather app made using React and Tailwind CSS. It helps you e
 __live:__ https://er-arunkumarselvam.github.io/SkyCast/
 
 __ScreenShot:__
-![SkyCast Screen](image.png)
+![SkyCast Screen](image-1.png)
 
 __Reference:__
 

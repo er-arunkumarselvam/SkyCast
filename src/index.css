@@ -3,16 +3,16 @@
 @tailwind utilities;
 
 .input-text-field{
-   @apply my-5 md:my-10 w-full mx-auto lg:w-8/12 p-3  bg-white rounded shadow outline-none border border-neutral-200 ;
+   @apply my-5 md:my-10 w-full mx-auto md:w-10/12 xl:w-8/12 p-3  bg-white rounded shadow outline-none border border-neutral-200 ;
 }
 .sky-card{
-    @apply w-full px-5 lg:w-8/12 md:px-10 py-5 mx-auto bg-sky-50 rounded-3xl shadow shadow-zinc-50 backdrop-blur-md bg-white/30 ;
+    @apply w-full px-5 md:w-10/12 xl:w-8/12 md:px-10 py-5 mx-auto bg-sky-50 rounded-3xl shadow shadow-zinc-50 backdrop-blur-md bg-white/30 ;
 }
 .data{
-    @apply flex justify-between  ;
+    @apply block w-40 mx-auto md:w-auto  md:flex justify-between  ;
 }
 .data-element{
-    @apply bg-blue-100 px-3 m-1 py-1  md:m-2 md:px-5 md:py-2 rounded-md text-xs md:text-sm text-center font-semibold text-slate-900;
+    @apply bg-blue-100 px-3 my-3 py-1  md:m-2 md:px-5 md:py-2 rounded-md text-xs md:text-sm text-center font-semibold text-slate-900;
 }
 .data-element__detail{
     @apply flex gap-1 md:gap-3 justify-center items-center my-2 ;
