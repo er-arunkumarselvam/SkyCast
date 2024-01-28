@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SkyCast/static/css/main.e385158f.css",
-    "main.js": "/SkyCast/static/js/main.3e7d4258.js",
+    "main.css": "/SkyCast/static/css/main.5d2e701e.css",
+    "main.js": "/SkyCast/static/js/main.7fe7e62e.js",
     "index.html": "/SkyCast/index.html",
-    "main.e385158f.css.map": "/SkyCast/static/css/main.e385158f.css.map",
-    "main.3e7d4258.js.map": "/SkyCast/static/js/main.3e7d4258.js.map"
+    "main.5d2e701e.css.map": "/SkyCast/static/css/main.5d2e701e.css.map",
+    "main.7fe7e62e.js.map": "/SkyCast/static/js/main.7fe7e62e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e385158f.css",
-    "static/js/main.3e7d4258.js"
+    "static/css/main.5d2e701e.css",
+    "static/js/main.7fe7e62e.js"
   ]
 }
