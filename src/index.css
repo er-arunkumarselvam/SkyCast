@@ -1,3 +1,38 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.input-text-field{
+   @apply my-5 md:my-10 w-full mx-auto lg:w-8/12 p-3  bg-white rounded shadow outline-none border border-neutral-200 ;
+}
+.sky-card{
+    @apply w-full px-5 lg:w-8/12 md:px-10 py-5 mx-auto bg-sky-50 rounded-3xl shadow shadow-zinc-50  ;
+}
+.data{
+    @apply flex justify-between  ;
+}
+.data-element{
+    @apply bg-blue-100 px-3 m-1 py-1  md:m-2 md:px-5 md:py-2 rounded-md text-xs md:text-sm text-center font-semibold text-slate-900;
+}
+.data-element__detail{
+    @apply flex gap-1 md:gap-3 justify-center items-center my-2 ;
+}
+.data-element__details--icons{
+    @apply text-blue-500;
+}
+
+.data-temp{
+    @apply relative text-7xl font-bold text-slate-900 text-center;
+}
+.data-temp span{
+    @apply text-base  absolute top-0;
+}
+.data-city{
+    @apply my-2 text-lg font-semibold text-slate-900 text-center;
+}
+.error-message{
+    @apply w-full px-2 py-3 lg:w-8/12 mx-auto text-center md:px-3 md:py-5 space-x-2 text-red-500 text-sm md:text-lg flex  items-center bg-red-100 border border-red-500 rounded-lg
+}
+.data-image{
+    @apply mx-auto w-40 h-40;
+}

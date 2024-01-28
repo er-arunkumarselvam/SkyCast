@@ -7,7 +7,10 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <div className="bg-gradient-to-r from-[#5de0e6] to-[#004aad] h-screen">
+      <App />
+    </div>
+    
   </React.StrictMode>
 );
 

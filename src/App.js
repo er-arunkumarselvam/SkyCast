@@ -1,9 +1,13 @@
-
+import React from "react";
+import GfGWeatherApp from "./Components/SkyCast";
 
 function App() {
   return (
     <div className="App">
-     <h1 className='text-green-500 font-bold'>Hello</h1>
+      <div className="w-11/12 lg:w-7/12 mx-auto">
+          <GfGWeatherApp/>
+      </div>
+     
     </div>
   );
 }
